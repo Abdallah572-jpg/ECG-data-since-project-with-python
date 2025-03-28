@@ -1,0 +1,3 @@
+The file consists of 1200 records of cardiac ailments, each 300 records belongs to one class of ailment and 56 columns , Column 1 give number of records, Column 56 give the class of the record like ARR - Arrhythmia, AFF- Atrial Fibrillation, CHF- Congestive heart failure and NSR- Normal Sinus Rhythm which deals with Multiclass classification problem. The rest 54 columns are features extracted using MODWPT method. The original signals are taken from MIT-BIH physionet database and are processed.
+
+
